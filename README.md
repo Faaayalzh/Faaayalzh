@@ -16,3 +16,4 @@ I'm looking for a **co-op training opportunity** in data science and analytics.
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/fay-al-zahrany-5140b4374)
+- Email: [zahranyfa2@gmail.com](fsalzh@outlook.com)
