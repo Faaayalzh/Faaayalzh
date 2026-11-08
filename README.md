@@ -7,12 +7,14 @@ I'm looking for a **co-op training opportunity** in data science and analytics.
 - **Data visualization:** Tableau
 - **Data cleaning and analysis:** Python (pandas, scikit-learn)
 - **Databases:** SQL
+- **Web Development:** HTML5, CSS3, JavaScript
 - **Knowledge representation:** OWL, Protégé
 
 ## Projects
 - [Student Habits Performance Dashboard](https://github.com/Faaayalzh/student-habits-dashboard): an interactive Tableau dashboard on how study habits, sleep, and motivation relate to exam performance
 - [Fitness Tracker Preprocessing](https://github.com/Faaayalzh/fitness-tracker-preprocessing): cleaning, EDA, and preprocessing of a large fitness-tracker dataset in Python
-- [Amusement Park Database](https://github.com/Faaayalzh/Amusement-Park-Database-Project-SQL): a relational database design in SQL
+- [Amusement Park Database](https://github.com/Faaayalzh/Amusement-Park-Database-Project-SQL): a relational database design and implementation in MySQL
+- [Bakery House Website](https://github.com/Faaayalzh/Bakery-House-Website): a responsive web application built with HTML5, CSS3, and JavaScript featuring interactive order and contact forms
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/fay-al-zahrany-5140b4374)
