@@ -6,11 +6,14 @@ I'm looking for a **co-op training opportunity** in data science and analytics.
 ## What I work with
 - **Data visualization:** Tableau
 - **Data cleaning and analysis:** Python (pandas, scikit-learn)
-- **Databases:** SQL
+- **Computer Vision & ML:** OpenCV, Machine Learning algorithms
+- **Databases:** SQL, MySQL
 - **Web Development:** HTML5, CSS3, JavaScript
-- **Knowledge representation:** OWL, Protégé
+- **Knowledge representation:** OWL, Protégé, SPARQL
 
 ## Projects
+- [SODA Date Variety Classification](https://github.com/Faaayalzh/SODA-Date-Variety-Classification): an end-to-end machine learning pipeline for classifying Saudi date varieties using computer vision and OpenCV[cite: 2]
+- [College of Computing Ontology](https://github.com/Faaayalzh/College-of-Computing-Ontology): an OWL ontology modeling the College of Computing at UQU using Protégé and SPARQL
 - [Student Habits Performance Dashboard](https://github.com/Faaayalzh/student-habits-dashboard): an interactive Tableau dashboard on how study habits, sleep, and motivation relate to exam performance
 - [Fitness Tracker Preprocessing](https://github.com/Faaayalzh/fitness-tracker-preprocessing): cleaning, EDA, and preprocessing of a large fitness-tracker dataset in Python
 - [Amusement Park Database](https://github.com/Faaayalzh/Amusement-Park-Database-Project-SQL): a relational database design and implementation in MySQL
